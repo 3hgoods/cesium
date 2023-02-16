@@ -21,7 +21,7 @@
 - 드론 스캔 연습용 프로그램 http://www.engjournal.co.kr/news/articleView.html?idxno=1672
 
 - 드론3차원 관제시스템 http://www.clrobur.com/en/bbs/board.php?bo_table=blog&wr_id=9
--                     https://www.youtube.com/watch?v=m2HtOcKyF5k
+- 영상 https://www.youtube.com/watch?v=m2HtOcKyF5k
 - 
 
 - 미래시대 추가 remoteid https://www.faa.gov/uas/getting_started/remote_id
