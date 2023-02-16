@@ -38,3 +38,10 @@
 - 인공지능형 스캔 https://www.core77.com/posts/109011/Skydio-Launches-3D-Scan-Where-an-Autonomous-Drone-Captures-and-Generates-a-3D-Model-in-Real-Time
 
 ```
+
+
+### 교육
+```
+- 국토정보교육원 https://lxsiedu.or.kr/usr/EgovUsrEduRecruitingDetail.do?idx=319&baseUsrMenuNo=3&imgNum=1&pageIndex=1
+
+```
