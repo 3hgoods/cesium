@@ -5,7 +5,7 @@
 - http://daddynkidsmakers.blogspot.com/2020/02/cesium-3d.html
 - https://cesium.com/
 
-``
+```
 
 
 ### 사업 진행중인 회사 사례
@@ -25,6 +25,16 @@
 
 - 드론3차원 관제시스템 http://www.clrobur.com/en/bbs/board.php?bo_table=blog&wr_id=9
 -                     https://www.youtube.com/watch?v=m2HtOcKyF5k
+- 
+
 - 미래시대 추가 remoteid https://www.faa.gov/uas/getting_started/remote_id
+
+```
+
+
+### 건물스캔을 위해 필요한 형태
+```
+- 4차원, 3차원 위치와 그에 따른 이동(시간과 속도) http://www.wunionnews.com/665403
+- 인공지능형 스캔 https://www.core77.com/posts/109011/Skydio-Launches-3D-Scan-Where-an-Autonomous-Drone-Captures-and-Generates-a-3D-Model-in-Real-Time
 
 ```
